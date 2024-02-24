@@ -46,5 +46,9 @@ Learning React from {Namaste React} by {Akshay Saini}.
 26. What is JSX?<br /> 
 27. If html already have h1 with id "root" then react also react h1 with root id then it remove the previous one or append new tags?<br /> 
 28. It is possible to inject small piece of react code in the pure html, css, js code?<br /> 
+29.<br /> 
+30.<br /> 
+<hr><h3>Episode 2 (Part 1, 2, 3, 4, 5)</h3><hr>
+
 
 
