@@ -41,7 +41,7 @@ Learning React from {Namaste React} by {Akshay Saini}.
 21. How many children we make in createElement in React?<br /> 
 22. What is use of props in createElement in React?<br /> 
 23. render convert the react.element generated code into html code and injected into selected react root?<br /> 
-24. How to create multiple child in React.createElement()?<br /> <br /> 
+24. How to create multiple child in React.createElement()?<br /> 
 25. Using createElement is too complex then why people use react?<br /> 
 26. What is JSX?<br /> 
 27. If html already have h1 with id "root" then react also react h1 with root id then it remove the previous one or append new tags?<br /> 
